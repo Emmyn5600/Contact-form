@@ -325,3 +325,99 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.cover {
+  height: 115vh;
+  background-image: url(https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/5dbd4d02c2ce7813b552ad90_microverse-logo-2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #3e396b;
+}
+
+.contact-header {
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  padding-top: 30px;
+}
+
+.contact-paragraph {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.design {
+  margin-bottom: 50px;
+  width: 59%;
+  color: #000;
+  margin-left: 300px;
+  font-size: 20px;
+  text-align: left;
+  border-radius: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  border: 1px solid #979797;
+  background-color: #ffd8a0;
+  padding: 2rem;
+}
+
+.names {
+  border-radius: 7px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  border: 1px solid #979797;
+}
+
+input {
+  margin-left: 150px;
+  width: 70%;
+  height: 60px;
+}
+
+::placeholder {
+  color: #000;
+  font-weight: 400;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+textarea {
+  width: 70%;
+  margin-left: 150px;
+  height: 150px;
+}
+
+.email {
+  border-radius: 7px;
+  margin-bottom: 20px;
+  border: 1px solid #979797;
+  width: 220px;
+}
+
+.message {
+  margin-top: 20px;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  border: 1px solid #979797;
+}
+
+.button {
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+  border-radius: 6px;
+  width: 170px;
+  height: 40px;
+  font-size: 15px;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-bottom: 20px;
+  background-color: #daf6e6;
+}
+
+.button:hover {
+  color: #a17362;
+}
