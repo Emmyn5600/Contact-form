@@ -327,7 +327,7 @@ li {
 }
 
 .cover {
-  height: 115vh;
+  height: 125vh;
   background-image: url(https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/5dbd4d02c2ce7813b552ad90_microverse-logo-2.svg);
   background-repeat: no-repeat;
   background-position: center;
@@ -360,8 +360,12 @@ li {
   border-radius: 10px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   border: 1px solid #979797;
-  background-color: #ffd8a0;
+  background-color: #e5e5e5;
   padding: 2rem;
+}
+
+.design-2 {
+   margin-left: 150px;
 }
 
 .names {
@@ -372,7 +376,7 @@ li {
 }
 
 input {
-  margin-left: 150px;
+
   width: 70%;
   height: 60px;
 }
@@ -386,7 +390,7 @@ input {
 
 textarea {
   width: 70%;
-  margin-left: 150px;
+
   height: 150px;
 }
 
@@ -420,4 +424,8 @@ textarea {
 
 .button:hover {
   color: #a17362;
+}
+
+@media screen {
+  
 }
