@@ -175,9 +175,8 @@ main {
   color: #fff;
 }
 
-.blue-color,
-.blue-color * {
-  color: #091e42 !important;
+.first-card-description .blue-color {
+  color: #091e42
 }
 
 .ml-0 {
@@ -255,7 +254,7 @@ li {
   border: 1px solid #8993a4;
   padding: 10px 12px;
   background: transparent;
-  color: #fff;
+  color: #091e42;
   transition: 350ms;
   cursor: pointer;
 }
