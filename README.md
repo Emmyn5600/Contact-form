@@ -15,7 +15,7 @@ This is a Contact form Microverse project that shows how to do the following fea
 
 
 
-![Screenshot](contact.png)
+![Screenshot](img1.png)
 
 
 # Built With
@@ -27,7 +27,7 @@ Introducing Linters
 - WebHint
 - Lighthouse
 
-👤 Authors
+👤 Author:
 
 👤NSABIMANA Emmanuel
 - GitHub: [@emmyn5600](https://github.com/Emmyn5600)
