@@ -31,7 +31,7 @@ Introducing Linters
 
 [Live Link](https://raw.githack.com/Emmyn5600/Contact-form/contact-form/index.html)
 
-👤 Authors
+# 👤 Authors
 
 👤NSABIMANA Emmanuel
 - GitHub: [@emmyn5600](https://github.com/Emmyn5600)
