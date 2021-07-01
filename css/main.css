@@ -23,7 +23,7 @@ header {
   color: white;
 }
 
-#logo {
+.logo {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
